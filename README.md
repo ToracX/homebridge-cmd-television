@@ -23,3 +23,5 @@ Configuration sample:
 }
     ]
 ```
+
+Warning do not install using git clone and moving the folder to youre node_modules dir. This will break the plugin.
